@@ -33,6 +33,7 @@ pip install setuptools ipywidgets fiftyone tensorflow pillow matplotlib numpy
 > [!TIP]
 > Try to use a fresh Python environment to avoid package conflicts.
 
+## Project Directories
 ```
 UAS Project
 ├─ dataset.ipynb
