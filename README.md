@@ -33,13 +33,6 @@ pip install setuptools ipywidgets fiftyone tensorflow pillow matplotlib numpy
 > [!TIP]
 > Try to use a fresh Python environment to avoid package conflicts.
 
-3. Run the application:
-
-```
-flutter run
-```
-
-
 ```
 UAS Project
 ├─ dataset.ipynb
