@@ -1,5 +1,5 @@
 Dataset Ikan - Open Images V7
-Dibuat pada: 2025-12-03 11:07:24.648717
+Dibuat pada: 2025-12-10 12:29:48.063203
 Jumlah gambar ikan: 610
-Train: 478 file
-Val: 132 file
+Train: 480 file
+Val: 134 file
